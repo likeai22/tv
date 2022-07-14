@@ -1,3 +1,3 @@
 Урок 7. Многомерный статистический анализ. Линейная регрессия
 
-[hw7](https://nbviewer.org/urls/bitbucket.org/raduntsev/tv/raw/18db23bb5da72ccfd676f11056c8915d7be11701/7/hw7.ipynb)
+[hw7](https://nbviewer.org/urls/bitbucket.org/raduntsev/tv/raw/0c1e81d524720ecc81d033b04133f24001471341/7/hw7.ipynb)
